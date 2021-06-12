@@ -9,3 +9,6 @@ number = 12;
 */
 var secondNumber;
 secondNumber = number;
+
+// declare and initialization
+var evenNumber = 8;
