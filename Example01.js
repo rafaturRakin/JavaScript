@@ -1,2 +1,4 @@
 // Variable Declaration
-var myName;
+var number;
+// Assigning value
+number = 12;
